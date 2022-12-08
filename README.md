@@ -6,3 +6,7 @@ Here is an example of HTML usage using different tags that were talked about pre
 
 This uses an example of using 2 different types of bullet points along with using the style method of changing the color of the font. It also includes the tags of using underline the text and a line going through the text as well.
 
++ [Introduction](https://github.com/ClaudiaFue/1610-Final-Project.git)
++ [What is HTML?](https://github.com/ClaudiaFue/What-Is-HTML.git)
++ [Basic HTML Code](https://github.com/ClaudiaFue/HTML-Basics.git)
++ HTML Examples
